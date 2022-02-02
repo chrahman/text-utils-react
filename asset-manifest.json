@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chrahman/text-utils-react.git/static/css/main.c1bb7276.css",
+    "main.js": "/chrahman/text-utils-react.git/static/js/main.3534d4bf.js",
+    "static/js/787.719ec76d.chunk.js": "/chrahman/text-utils-react.git/static/js/787.719ec76d.chunk.js",
+    "static/media/logo.svg": "/chrahman/text-utils-react.git/static/media/logo.4c24358546df0d1dda32cc71cef966fe.svg",
+    "index.html": "/chrahman/text-utils-react.git/index.html",
+    "main.c1bb7276.css.map": "/chrahman/text-utils-react.git/static/css/main.c1bb7276.css.map",
+    "main.3534d4bf.js.map": "/chrahman/text-utils-react.git/static/js/main.3534d4bf.js.map",
+    "787.719ec76d.chunk.js.map": "/chrahman/text-utils-react.git/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1bb7276.css",
+    "static/js/main.3534d4bf.js"
+  ]
+}
